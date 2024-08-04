@@ -3,9 +3,8 @@
 %%abc-charset utf-8
 
 X:1
-B: Siamsa Siesiun
 T:The Maid Behind the Bar
-N:Goes with: Cooleys, Silver Spear
+W:Goes with: Cooleys, Silver Spear
 R:reel
 M:4/4
 L:1/8
@@ -14,7 +13,6 @@ FAAB AFED | FAAB ABde | fBBA Bcde | f2gf efdB |
 AFAB AFED | FAAB ABde | fBBA BcdB | AFEF D4 ::
 fgab afde | fdad bdad | efga beef | gebe geeg |
 fgaf bfaf | defd efde | fBBA BcdB | AFEF D4 :|
-
 
 X:1
 T: Mountain Lark, The
@@ -70,19 +68,9 @@ Beee e3g|fede fedf|g3e f3g|afdf afdf|
 gb (3bbb fa (3aaa|egfe dBAF|G2 GF GABc|dcdB AGFD||
 
 X:1
-T:Sligo Maid, The
-R:reel
-Z:id:hn-reel-116
-M:C|
-K:Ador
-A2BA (3B^cd ef|gedB AGEF|G2BG dGBG|DEGA BGdB|
-A2BA (3B^cd ef|gedB AGEG|~B3G ABGE|DEGA BA~A2:|
-|:eaag a2ga|bgaf gfed|eggf ~g3e|dega bgag|
-eaag a2ga|bgaf gfed|eg~g2 edB^c|dBgB BA~A2:|
-
-X:1
 T: Maids Of Mt. Kisco, The
 C: Trad.
+W: Next: Bag of Spuds
 M: 4/4
 L: 1/8
 R: reel
@@ -92,11 +80,13 @@ EA~A2 BAAG|EA~A2 BABd|efge afge|1 dBGB ~A3G:|2 dBGB A2dB||
 |:~A3B dBAB|G2BG DGBG|~A3B dGBd|1 e~g3 gedB :|2 edge d2 Bd||
 |:ea~a2 bgaf |gfed GABd|ea~a2 bgaf|gede g2eg|
 ~a3f ~g3e|dedB GABd|eA~A2 efge|1 dBGB A2 Bd:|2 dBGB ~A3G||
-%%newpage
+
+
 
 X:1
 T:Bag of Spuds
 T:Anything for Joe John
+W: Next: Sligo Creek
 R:reel
 M:C|
 L:1/8
@@ -105,6 +95,18 @@ K:Amin
 "F"A2eA BAeA | ABcd egdB | "Em"GA (3B^cd e^fge |1 dBGA BAAG :|2 dBGA BAA2 |:
 "Am"a2eg ageg | "F"agbg age^f | "C"gedc "G"BG (3B^cd | "Em"g3a bgeg |
 "Am"a2eg ageg | "F"agbg ageg | "D"d^cde "Em"g3e | "G"dBGA "(G#)"BAA2 :|
+
+
+X:1
+T:Sligo Maid, The
+R:reel
+Z:id:hn-reel-116
+M:C|
+K:Ador
+A2BA (3B^cd ef|gedB AGEF|G2BG dGBG|DEGA BGdB|
+A2BA (3B^cd ef|gedB AGEG|~B3G ABGE|DEGA BA~A2:|
+|:eaag a2ga|bgaf gfed|eggf ~g3e|dega bgag|
+eaag a2ga|bgaf gfed|eg~g2 edB^c|dBgB BA~A2:|
 
 X:1
 T:Curlew, The
@@ -122,6 +124,7 @@ fB~B2 Bcde|fece ~a3f|~=g3e ~f3e|dBBA FB~B2:|
 X:1
 T:Hollybush, The
 R:reel
+W: Next: Lads of Laois
 C:Finbarr Dwyer (1946-)
 H:Also in Emix: #695
 D:Joe McHugh & Barry Carroll: The Long Finger
@@ -132,6 +135,7 @@ A2FA DAFA|~A2de fded|cG~G2 EG~G2|cdec dcAG|
 A2FA DAFA|~A2de fded|cG~G2 cdec|dAGE D4:|
 |:Add^c defg|addc dcAB|cG~G2 (3B^cd eg|aged cdBc|
 Add^c defg|addc dcAB|c2cB cdec|dAGE D4:|
+
 
 X:1
 T:Lads of Laois, The
@@ -153,7 +157,6 @@ EB,~B,2 EGFE|DA,~A,2 DEFD|GEED EFGA|B2ec dBAF|
 [2 E2B,E GEB,E|D2A,D FDA,D|(3Bcd ec dBAF|DEFA BE~E2||
 |:eB~B2 egfe|defa gfed|(3Bcd ed efge|fgaf gfed|
 eB~B2 GBFB|EBBA Bdef|~g3e ~f3d|1 efed BAFA:|2 efed BAFD||
-
 
 X:1
 T:Cooley's
@@ -278,6 +281,7 @@ X:1
 T:The Golden Keyboard
 C:Martin Mulhaire
 Z:Philippe Murphy 2006-05-25
+W: Next: Green Gates
 R:reel
 S:Eamonn Cotter, Wooden Flute Obsession
 M:4/4
@@ -287,6 +291,27 @@ BGEF GFGA | B2gB fBeB | BGEF GBAG | (3FED AD BDAF |
 ~E3 F ~G3 A | B2gB fBec | d2fe dBAF | DFAF GE ~E2 :|
 Be ~e2 Be ~e2 | Beed edBc | d ~A3 EAce | d2fe dBAF |
 ~E3 F ~G3 A | B2gB fBec | d2fe dBAF | DFAF GE ~E2 :|
+
+
+X:1
+T:Green Gates, The
+R:reel
+D:Stockton's Wing.
+D:Conal O'Grada: Top of Coom.
+Z:id:hn-reel-27
+W: Next: Golden Stud
+M:C|
+K:G
+GBdg (3efe dB|GBdg egdg|eA~A2 eAcA|(3Bcd ed gedB|
+GBdg e2dB|GBdg egdB|cBcd efge|dBAB G4:|
+|:dg~g2 bg~g2|dg~g2 edBd|eA~A2 eAcA|(3Bcd ed gedB|
+dg~g2 bg~g2|dg~g2 edBd|cBcd efge|dBAB G4:|
+"Variations:"
+|:G2dG egdB|~g3d egdg|eA~A2 gAfA|(3ege de gedB|
+~g3d egdB|~g3d e2dB|cBcd efge|dBAB G4:|
+|:dg~g2 bg~g2|ag~g2 bgeg|eA~A2 gAfA|(3ege de gedB|
+dg~g2 bg~g2|dg~g2 edBd|cBcd efge|dBAB G4:|
+
 
 X:1
 T:Torn Jacket, The
