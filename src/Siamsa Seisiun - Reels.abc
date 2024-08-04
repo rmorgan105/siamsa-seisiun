@@ -1,0 +1,522 @@
+%%abc-charset utf-8
+
+%%abc-charset utf-8
+
+X:1
+B: Siamsa Siesiun
+T:The Maid Behind the Bar
+N:Goes with: Cooleys, Silver Spear
+R:reel
+M:4/4
+L:1/8
+K:D
+FAAB AFED | FAAB ABde | fBBA Bcde | f2gf efdB |
+AFAB AFED | FAAB ABde | fBBA BcdB | AFEF D4 ::
+fgab afde | fdad bdad | efga beef | gebe geeg |
+fgaf bfaf | defd efde | fBBA BcdB | AFEF D4 :|
+
+
+X:1
+T: Mountain Lark, The
+Z: slainte
+S: https://thesession.org/tunes/7862#setting7862
+R: reel
+M: 4/4
+L: 1/8
+K: Edor
+FE~E2 FEDE|FE~E2 FABA|FE~E2 FEDB,|D2DE FABA:|
+Be~e2 fded|Be~e2 d2cd|Be~e2 fdec|Bdce d2cd|
+Be~e2 feed|egfe d3e|fd~d2 edcd|BABc dBAF||
+
+X:1
+T:Toss the Feathers
+T:Toss the Feathers v1
+R:reel
+H:Other versions: #263 (Ddor), #110 (Dmix), #652 (Ddor)
+Z:id:hn-reel-163
+M:C|
+K:Edor
+EB~B2 dB~B2|EBBA FEFA|BE~E2 B2AB|1 dffe dBAF:|2 dffe dBAd||
+Beed e2de|fede fe~e2|febe febe|fede feed|
+Beed e2de|fede fa~a2|~b3f ~a3f|effe dBAF||
+
+X:1
+T:Toss the Feathers
+T:Toss the Feathers v2
+R:reel
+H:Other versions: #110 (Dmix), #163 (Edor), #652 (Ddor)
+D:Milestone at the Garden
+D:Kevin Burke: If the Cap Fits
+Z:id:hn-reel-263
+M:C|
+K:Ddor
+D2AD EDAD|D2AG EGGE|D2AD EDEG|1 AddB cAGE:|2 AcGE EDD2||
+Adde d2cd|edcd ed~d2|eaag edcd|edcd ed~d2|
+eaag e^fge|d=fed cAGE|D2ED EAAB|cded cAGE||
+
+X:1
+T: Toss the Feathers
+T: Toss the Feathers v3
+T: Craith na Cleiteacha
+S: "Ceol Rince na hEireann" 1/195
+Z: B.Black
+L: 1/8
+M: 4/4
+R: reel
+K: Edor
+E3G B2 BA|EB B2 AGFD|E2 EG B3c|d2 ec dBAF|
+EB B2 B2 BA|EB B2 AGFD|E3B BABc|dfec dBAd||
+Beee e3g|fede fedf|g3e f3g|afdf afdf|
+gb (3bbb fa (3aaa|egfe dBAF|G2 GF GABc|dcdB AGFD||
+
+X:1
+T:Sligo Maid, The
+R:reel
+Z:id:hn-reel-116
+M:C|
+K:Ador
+A2BA (3B^cd ef|gedB AGEF|G2BG dGBG|DEGA BGdB|
+A2BA (3B^cd ef|gedB AGEG|~B3G ABGE|DEGA BA~A2:|
+|:eaag a2ga|bgaf gfed|eggf ~g3e|dega bgag|
+eaag a2ga|bgaf gfed|eg~g2 edB^c|dBgB BA~A2:|
+
+X:1
+T: Maids Of Mt. Kisco, The
+C: Trad.
+M: 4/4
+L: 1/8
+R: reel
+K:Ador
+EA~A2 BA~A2|EA~A2 BGAG|EG~G2 AG~G2|EG~G2 EGDG|
+EA~A2 BAAG|EA~A2 BABd|efge afge|1 dBGB ~A3G:|2 dBGB A2dB||
+|:~A3B dBAB|G2BG DGBG|~A3B dGBd|1 e~g3 gedB :|2 edge d2 Bd||
+|:ea~a2 bgaf |gfed GABd|ea~a2 bgaf|gede g2eg|
+~a3f ~g3e|dedB GABd|eA~A2 efge|1 dBGB A2 Bd:|2 dBGB ~A3G||
+%%newpage
+
+X:1
+T:Bag of Spuds
+T:Anything for Joe John
+R:reel
+M:C|
+L:1/8
+K:Amin
+"Am"A2eA BAeA | ABcd egdB | "G"G2BG dGBA | GBB2 GBdB |
+"F"A2eA BAeA | ABcd egdB | "Em"GA (3B^cd e^fge |1 dBGA BAAG :|2 dBGA BAA2 |:
+"Am"a2eg ageg | "F"agbg age^f | "C"gedc "G"BG (3B^cd | "Em"g3a bgeg |
+"Am"a2eg ageg | "F"agbg ageg | "D"d^cde "Em"g3e | "G"dBGA "(G#)"BAA2 :|
+
+X:1
+T:Curlew, The
+M:C|
+C:Josephine Keegan
+R:reel
+D:Altan: Horse with a Heart
+Z:id:hn-reel-367
+K:Bdor
+fB~B2 Bcde|fece ~a3e|(3fga ed cA~A2|^GAce a^gba|
+fB~B2 Bcde|fece ~a3f|~=g3e ~f3e|dBBA FB~B2:|
+|:(3Bcd cd BF~F2|DF~F2 Bcdf|ecBc AE~E2|CEAB cedc|
+(3Bcd cd BF~F2|DF~F2 Bcdf|ecBA fcec|dcBA FB~B2:|
+
+X:1
+T:Hollybush, The
+R:reel
+C:Finbarr Dwyer (1946-)
+H:Also in Emix: #695
+D:Joe McHugh & Barry Carroll: The Long Finger
+Z:id:hn-reel-468
+M:C|
+K:Dmix
+A2FA DAFA|~A2de fded|cG~G2 EG~G2|cdec dcAG|
+A2FA DAFA|~A2de fded|cG~G2 cdec|dAGE D4:|
+|:Add^c defg|addc dcAB|cG~G2 (3B^cd eg|aged cdBc|
+Add^c defg|addc dcAB|c2cB cdec|dAGE D4:|
+
+X:1
+T:Lads of Laois, The
+R:reel
+H:Originally Scottish: "The Lads of Leith"
+D:Arty McGlynn & Nollaig Casey: Lead the Knave.
+Z:id:hn-reel-100
+Z:richard morgan
+W: play after The Hollybush
+M:C|
+K:Edor
+EB,~B,2 EGFE|DA,~A,2 DEFD|GEED EFGA|B2ec dBAF|
+EB,~B,2 EGFE|DA,~A,2 DEFD|E2BE dBAF|1 DEFA BEED:|2 DEFA BE~E2||
+|: eB~B2 egfe|defa gfed|(3Bcd ed efge|fgaf gfed|
+eB~B2 GBFB|EBBA Bdef|~g3e ~f3d|1 efed BAFA:|2 efed BAFD||
+"Variations:"
+EB,~B,2 EGFE|DA,~A,2 DEFD|GEED EFGA|B2ec dBAF|
+[1 EB,~B,2 EGFE|DA,~A,2 DEFD|E2BE dBAF|DEFA BEED:|
+[2 E2B,E GEB,E|D2A,D FDA,D|(3Bcd ec dBAF|DEFA BE~E2||
+|:eB~B2 egfe|defa gfed|(3Bcd ed efge|fgaf gfed|
+eB~B2 GBFB|EBBA Bdef|~g3e ~f3d|1 efed BAFA:|2 efed BAFD||
+
+
+X:1
+T:Cooley's
+T:Luttrell's Pass
+R:reel
+C:Joe Mills, Galway (1938)
+D:Dubliners: 25 Years Celebration.
+D:Noel Hill & Tony Linnane
+D:Frankie Gavin & Paul Brock: Tribute to Joe Cooley
+Z:id:hn-reel-48
+M:C|
+K:Edor
+EBBA B2EB|~B2AB dBAG|(3FED AD BDAD|FDFA dAFD|
+EBBA B2EB|~B2AB defg|afef dBAF|1 DEFD E2ED:|2 DEFD E2gf||
+|:eB~B2 eBgB|eB~B2 gedB|A2FA DAFA|~A2FA defg|
+eB~B2 eBgB|eB~B2 defg|afef dBAF|1 DEFD E2gf:|2 DEFD E2ED||
+
+X:1
+T:Tarbolton, The
+R:reel
+H:Originally Scottish: "Tarbolton Lodge"
+H:Often played as a set: The Tarbolton/The Longford Collector/The Sailor's Bonnet.
+H:This set comes from the playing of Michael Coleman.
+Z:id:hn-reel-21
+M:C|
+K:Edor
+Beed e2BA|GBAF GFEF|Dddc d2AG|FAGE FEDF|
+Eeed efge|fedf e2BA|GABG FGAF|BGAF GEE2:|
+|:gfef gebe|gebe gfec|d2fd Adfd|cdAG FDEF|
+GABG FGAF|E2ef gfed|BcdB A2FA|BGAF GEE2:|
+"Variations:"
+|:e2~e2 eBBA|GBAF GFEF|Dddc d2AG|FAGE FEDF|
+~B3d efge|fedf eBBA|GBAG FGA=c|BGAF GEE2:|
+|:~e3f gfef|gebe gfef|d2fd Adfd|cdAG FDEF|
+~G3B ~F3A|E2ef gfed|ed=cB ABGA|(3Bcd AF GEE2:|
+
+X:1
+T:Wedding Reel
+T:Donald Maclean's Farewell
+R:reel
+M:4/4
+L:1/8
+K:D
+DE|F2BF AFEF|D2DE FABd|e2fd efdB|ABde dBAG|
+F2BF AFEF|D2DE FABd|e2fd efdB|ABde d2:|
+B|A3f edfd|A3f edfd|ABdA BdAB|dBAF E2 DE|
+F2BF AFEF|D2DE FABd|e2fd efdB|ABde d3:|
+
+X:1
+T:Sailor's Bonnet, The
+R:reel
+D:Michael Coleman
+D:Davy Spillane: Shadow Hunter
+D:Bothy Band: 1975
+Z:id:hn-reel-205
+M:C|
+K:D
+A2FA df~f2|dfef dB~B2|A2FA dffe|dBAG FDDB|
+A2FA df~f2|afef dB~B2|A2FA dffe|dBAG FDD2||
+|:a2~a2 afdf|afef dB~B2|fbba bafa|bfaf feef|
+bf~f2 af~f2|afef dB~B2|A2FA dffe|1 dBAF ADD2:|2 dBAF ADDB||
+"Variations:"
+A2FA dfef|df (3efe dB~B2|A2FA defe|dBAG FD~D2|
+A2FA df~f2|afgf efdB|(3ABA FA defe|dBAG FD~D2||
+|:~a3z afdf|afef dB~B2|fbba babc'|d'c'ba feef|
+bf~f2 af~f2|afef efdB|(3ABA FA defe|1 dBAF ADD2:|2 dBAF ADD2||
+
+X:1
+T:Wise Maid, The
+T:All around the World
+R:reel
+C:John Doherty? (1900-1980)
+Z:id:hn-reel-40
+M:C|
+K:D
+~F3G FEDE|FAAB AFED|d2 (3efg fdec|dBAF BE~E2|
+~F3G FEDE|FAAB AFED|d2 (3efg fdec|1 dBAG FD ~D2:|2 dBAG FDFA||
+|:d2AG FDFA|dfaf gfeg|fAdf eAce|dfed cA~A2|
+BDGB ADFA|dfaf gfed|(3Bcd ec dBAG|1 FGEF DEFA:|2 FGEG FDDE||
+"Variations:"
+~F3G FEDE|FAAF AFAB|d2 (3efg fdAc|dAFA BE~E2|
+~F3G FEDE|FAAF AFAB|d2 (3efg fdAc|1 dBAG FD ~D2:|2 dBAG FDFA||
+|:d2AG FDFA|dfaf gfeg|f2df e2ce|dfed cA~A2|
+BG~G2 AF~F2|dfaf gfed|(3Bcd ce dBAG|1 FGEF DEFA:|2 FGEG FDDE||
+
+X:1
+T:The Congress Reel
+R:reel
+M:4/4
+L:1/8
+K:Ador
+eAAG A2Bd | eaaf gedg | eAcA eAcA | BGGA Bdeg |
+eAAG A2Bd | eaaf gedB | cBcd eged | cABG A2Bd ::
+eaag abag | eaag egdg | egdg egdg | eaaf gedg |
+eaag a2ag | eaaf gedB | c2cd e2ed | cABG A2Bd :|
+
+X:1
+T:Ships Are Sailing
+R:reel
+H:See also #687, #186
+Z:id:hn-reel-151
+M:C|
+K:Edor
+Beed BcdB|AD (3FED AD (3FED|~E3F GFGA|Beef gfed|
+Beed BcdB|AD (3FED AD (3FED|~E3F GFGA|1 Beed e2ed:|2 Beed e2ef||
+|:gfga bgeg|fefg afdf|~g3a bgeg|fedf e2ef|
+~g3a bgeg|~f3g afdf|~g2bg ~f2af|1 edef gfef:|2 edef gfed||
+
+X:1
+T:The Earl's Chair
+R:reel
+M:4/4
+L:1/8
+K:D
+A | B2dB BAFA | B2dB BAFB | AFF2 DFF2 | AFdB ADFA |
+B2dB BAFA | B2dB BAFB | AFAB defd |1 edef d3 :|2 edef d2 |:
+(3Bcd | e3f d3B | e3f dBAB | e3f d3e | fedB ADFA |
+e3f dBB2 | gBB2 defg | afbf afeg |1 fedB A2 :|2 fedB A3 |]
+%%newpage
+
+X:1
+T:The Golden Keyboard
+C:Martin Mulhaire
+Z:Philippe Murphy 2006-05-25
+R:reel
+S:Eamonn Cotter, Wooden Flute Obsession
+M:4/4
+L:1/8
+K:Edor
+BGEF GFGA | B2gB fBeB | BGEF GBAG | (3FED AD BDAF |
+~E3 F ~G3 A | B2gB fBec | d2fe dBAF | DFAF GE ~E2 :|
+Be ~e2 Be ~e2 | Beed edBc | d ~A3 EAce | d2fe dBAF |
+~E3 F ~G3 A | B2gB fBec | d2fe dBAF | DFAF GE ~E2 :|
+
+X:1
+T:Torn Jacket, The
+R:reel
+C:Connie O'Connell
+D:Declan Masterson: Tropical Trad
+Z:id:hn-reel-448
+M:C|
+K:D
+~F3A dfed|cA~A2 (3Bcd ed|AF~F2 dfed|cAGE EDDE|
+~F3A dfed|cA~A2 (3Bcd ec|dcde fded|cAGE EDDE:|
+|:FAdf ~a3f|~g3f gfed|cA~A2 (3Bcd ef|gfed cAGE|
+FAdf ~a3f|~g3f gfef|gaba gfed|cAGE EDDE:|
+
+X:1
+T:Gravel Walk
+R:reel
+M:4/4
+L:1/8
+K:Ador
+A2 eA BAeA | A2 ed BAGB | A2eA Bd ef | gedc BAGB :|
+A2aA gAfA | A2ed BAGB | A2aA gAfa | gedc BAGB |
+A2aA gAfA | A2ed BAGB | ABcd egfa | gedc BAGB |:
+cAAG A3B | cAAG BGBd | cAAG A2ef | gfge dBGB ::
+c2gc acgc | c2gc BAGB | c2gc acga | gedc BAGB |
+c2gc acgc | c2gc BAGB | ABcd egfa | gedc BAGB :|
+
+X:1
+T:Superfly
+R:reel
+C:Kevin O'Neill
+Z:id:hn-reel-875
+M:C|
+L:1/8
+K:Bm
+|: Bf~f2 gfeg | ~f3g fedf | ~e3f edce | decA BAFA |
+Bf~f2 gfeg | ~f3g fedf | ~e3f edce | decA B2BA :|
+|: Bcde f2Bc | defB g2Bc | defd a3f | gfeg fedc |
+Bcde f2Bc | defB g2Bc | defd ~a3f | gfeg ~f3z :|
+
+X:1
+T:O'Neill's March
+R:march
+D:Chieftains Live
+Z:id:hn-march-5
+M:2/4
+L:1/8
+K:Edor
+Bg fa|eg g/f/e/d/|Bg fa|eg g/f/e/d/:|
+|:ed/e/ f/e/d/B/|ed/e/ f/e/d/B/:|
+|:A>B G>B|Ae e/d/B/G/|A>B G>B|1 Ae e/d/B/G/:|2 Ae e/d/B/A/||
+
+X:1
+T:Jennie's Chickens
+R:reel
+M:4/4
+L:1/8
+K:Bdor
+|: f2fa fece | fefa eAce | f2fa fece | fgaf eAce :|
+|:fBBA B2 ce | fB B2 eAce | fBBA B2 ce |1 fgaf eAce :|2 fgaf eAcA |:
+B2 bB aBgB | B2 af eAcA | B2 bB aBgB |1 fgaf eAcA :|2 fgaf eAce |]
+
+X:1
+T:Banshee, The
+T:McMahon's
+R:reel
+C:James McMahon (Co. Fermanagh fiddle/flute player, b. ~1900)
+Z:id:hn-reel-22
+M:C|
+K:G
+~G3D EDB,D|GFGB d2Bd|eged BAGA|BAGE EDDE|
+~G3D EDB,D|GFGB d2Bd|eged BAGA|BAGE EDD2:|
+|:eaag efge|dBBA B3z|eB~B2 gBfB|eBBA B3z|
+eaag efge|dBBA B3z|eged BAGA|BAGE EDD2:|
+
+X:1
+T:Bang Your Frog On The Sofa
+C:Will Harmon
+M:4/4
+L:1/8
+R:reel
+K:Dmin
+|:DFAd c2 GB|AFDF GECE|DCDE FGAc|dcAF G2 FG|
+|Adde fedc|dcAF GECE|DFEG FAGB|1 AGEF D2 A,C :|2 Ad^ce defg|
+|a2 af dfaf|dfaf gfed|ce (3eee gecd|edef gefg|
+|a2 af dfaf|defg afde|fedc ABGB|Ad^ce defg|
+|a2 af dfaf|dfaf gfed|ce (3eee gecd|edef gefg|
+|af (3fff ge (3eee|fedf edce|fedc AGFA|GECE D2 A,C|
+
+X:1
+T:The Golden Stud
+R:reel
+M:4/4
+L:1/8
+K:Emin
+B,D | E3G F3A | G3B ABcA | BAGB AGFA | GEFD EDB,D |
+E3G F3A | G3B ABcA | BAGB AGFA | GEFD E2 :|
+|:AB | c2AB cBAc | B2GA BAGB | A2FG AGFA | GEFD E2AB |
+c2AB cBAc | B2GA BAGB | A2FG AGFA | GEFD E2 :|
+%%newpage
+
+X:1
+T: Spootiskerry
+Z: MichaelBolton
+S: http://thesession.org/tunes/857#setting857
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+DE | G2 DE GDEG | DEGA B2 AB | G2 DE GABd |eged B2 AB |
+G2 DE GDEG | DEGA B2 AB | g2 ed edBA | B2 G2 G2 :|
+ef | g2 ed ed B2 | BABG E2 DE | GABd eged | B2 A2 A2 ef |
+g2 ed ed B2 | BABG E2 DE | GABd eged | B2 G2 G2 ef |
+g2 ed ed B2 | BABG E2 DE | GABd eged | B2 A2 A2 DE|
+G2 DE GDEG | DEGA B2 AB | g2 ed edBA |B2 GB G2  ||
+
+X:1
+T: Spootiskerry
+Z: MichaelBolton
+S: http://thesession.org/tunes/857#setting857
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+DE | G2 DE GDEG | DEGA B2 AB | G2 DE GABd |eged B2 AB |
+G2 DE GDEG | DEGA B2 AB | g2 ed edBA | B2 G2 G2 :|
+ef | g2 ed ed B2 | BABG E2 DE | GABd eged | B2 A2 A2 ef |
+g2 ed ed B2 | BABG E2 DE | GABd eged | B2 G2 G2 ef |
+g2 ed ed B2 | BABG E2 DE | GABd eged | B2 A2 A2 DE|
+G2 DE GDEG | DEGA B2 AB | g2 ed edBA |B2 GB G2  ||
+
+X:1
+T:Trip to Pakistan, The
+R:reel
+C:Niall Kenny
+S:J\"orgen Fischer
+Z:id:hn-reel-758
+M:C|
+K:Em
+|:EGBE ~G3B|~A3G AGFG|EGBE ~G3B|AGFG E4:|
+|:EGBG c3A|BABd AGFG|EGBG c3A|BAGB A4:|
+|:FGBF GBFG|EFGE FGFE|DFAD FADF|AGFG E4:|
+
+X:1
+T:Cup of Tea, The
+M:C|
+R:reel
+Z:Sometimes played as a two-part-only reel.
+Z:id:hn-reel-63
+K:Edor
+BAGF EDEF|GEBE GBE=c|BAGF EDEG|(3FED AD FAD=c|
+BAGF EDEF|(3GFEBE GBE=c|BAGF GAB^c|1 dBAG FDD=c:|2 dBAG FDD2||
+|:d2 (3efg fdec|dfeg fB~B2|d2 (3efg fdec|dBAG FDD2|
+d2 (3efg fdec|dfaf g2fg|afge fdec|dBAG FDD2:|
+|:FAdA FABA|FAdA FE~E2|~F3A BABc|dBAG FDD2|
+FAdA FABA|FAde fe~e2|fedc dBAF|1 GBAG FDD2:|2 GBAG FDD=c||
+"Variations:"
+BAGF GEEF|GEBE GE~E2|BAGF GE~E2|DFAG FDDA|
+BAGF GE~E2|B,E~E2 GE~E2|BAGF GBe^c|1 dABG FDD=c:|2 dABG FDD2||
+|:~d3e fgfe|dced fBBc|dcde fgfe|dABG FDD2|
+dcde fgfe|dfaf g2fg|afge fdec|dABG FDD2:|
+|:FAdA FABA|FAdA BE~E2|~F3A ~B3c|dBAG FDD2|
+FAdA FABA|FAde fe~e2|fedc dBAF|1 GBAG FDD2:|2 GBAG FDDA||
+
+X:1
+T:Chanter's Song, The
+T:Chanter's Tune, The
+T:Song of the Chanter, The
+R:march
+H:Also played in Dmix, #10
+Z:id:hn-march-15
+M:2/4
+L:1/8
+K:Amix
+AA ed/B/|AA gf/g/|ae ed/B/|gf/g/ ed/B/|
+AA ed/B/|AA gf/g/|ae ed/B/|A2 A2:|
+|:e>f gf/g/|e/d/e/f/ gf/g/|ae ed/B/|gf/g/ ed/B/|
+AA ed/B/|AA gf/g/|ae ed/B/|A2 A2:|
+
+X:1
+T:Sheehan's
+T:Black Eyed Sailor, The
+R:reel
+S:Mick Hand, flute classes in Miltown Malbay 1991.
+H:See also Wellington's, #569
+Z:id:hn-reel-120
+M:C|
+K:G
+G2BG DGBG|ABcA BG~G2|AGAB cBAG|EAAG FDEF|
+G2BG DGBd|cBAB cdef|gedB c2Bc|dBcA BG~G2:|
+|:g2bg dgbg|gbag fdde|f2af dfaf|gbag fdef|
+g2bg dgbg|gbag fdef|gedB c2Bc|dBcA BG~G2:|
+
+X:1
+T:Hunter's House, The
+R:reel
+C:Ed Reavy (1898-1988)
+D:Music at Matt Molloy's
+Z:id:hn-reel-127
+M:C|
+K:G
+Bd~d2 cAFA|G2BG DGBG|Bd~d2 cAFA|GBAG FGEF|
+DG~G2 BG~G2|BGAF GABc|defg agfd|cAFA G3A:|
+|:B2gB aBgB|~B2gf edcB|Aa~a2 baaf|dfaf gfed|
+~B2gB aBgB|~B2gf edcB|cBAg fgaf|gdBd cAFA:|
+
+X:1
+T:Swinging on the Gate
+R:reel
+S:Bernadette FitzSimon
+Z:id:hn-reel-615
+M:C|
+K:G
+gedB G2AB|cABG AGEG|DGBd g2fg|eaag fdef|
+gedB G2AB|cABG AGEG|cABG AGEG|DGGF GABd:|
+|:~g3a bgaf|gfed cBAG|EAAB cBAG|(3EFG AB cdef|
+~g3a bgaf|gfed cBAB|cABG AGEG|DGGF GABd:|
+
+X:1
+T: Rookery, The
+C: Vincent Broderick
+Z: luddite
+S: https://thesession.org/tunes/2958#setting32661
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+|:"G"BGAG EGDG|EGDG "C"EGDE|"G"G2 Bd e2 dg|e2 dg "D"edBA|
+"Em"G2 GA B2 Bd|"C"e2 ed efga|bgag egge|"D"dBAc "C"BG G2:|
+|:"G"b2 gb a2 ga|b2 gb "D"aged|"C"G2 Bd e2 dg|e2 dg "D"edBA|
+"Em"G2 GA B2 Bd|"C"e2 ed efga|bgag egge|"D"d2 Ac "C"BG G2:|
+
+
