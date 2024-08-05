@@ -1,4 +1,7 @@
 %%abc-charset utf-8
+
+%%abc-charset utf-8
+
 X:1
 T:The Maid Behind the Bar
 W:Goes with: Cooleys, Silver Spear
@@ -158,6 +161,7 @@ eB~B2 GBFB|EBBA Bdef|~g3e ~f3d|1 efed BAFA:|2 efed BAFD||
 X:1
 T:Cooley's
 T:Luttrell's Pass
+W:Next: Maid behind the Bar
 R:reel
 C:Joe Mills, Galway (1938)
 D:Dubliners: 25 Years Celebration.
@@ -170,6 +174,7 @@ EBBA B2EB|~B2AB dBAG|(3FED AD BDAD|FDFA dAFD|
 EBBA B2EB|~B2AB defg|afef dBAF|1 DEFD E2ED:|2 DEFD E2gf||
 |:eB~B2 eBgB|eB~B2 gedB|A2FA DAFA|~A2FA defg|
 eB~B2 eBgB|eB~B2 defg|afef dBAF|1 DEFD E2gf:|2 DEFD E2ED||
+
 
 X:1
 T:Tarbolton, The
@@ -193,6 +198,7 @@ GABG FGAF|E2ef gfed|BcdB A2FA|BGAF GEE2:|
 X:1
 T:Wedding Reel
 T:Donald Maclean's Farewell
+W:Next: The Rookery
 R:reel
 M:4/4
 L:1/8
@@ -201,6 +207,7 @@ DE|F2BF AFEF|D2DE FABd|e2fd efdB|ABde dBAG|
 F2BF AFEF|D2DE FABd|e2fd efdB|ABde d2:|
 B|A3f edfd|A3f edfd|ABdA BdAB|dBAF E2 DE|
 F2BF AFEF|D2DE FABd|e2fd efdB|ABde d3:|
+
 
 X:1
 T:Sailor's Bonnet, The
@@ -425,6 +432,8 @@ g2 ed ed B2 | BABG E2 DE | GABd eged | B2 G2 G2 ef |
 g2 ed ed B2 | BABG E2 DE | GABd eged | B2 A2 A2 DE|
 G2 DE GDEG | DEGA B2 AB | g2 ed edBA |B2 GB G2  ||
 
+
+
 X:1
 T: Spootiskerry
 Z: MichaelBolton
@@ -439,6 +448,8 @@ ef | g2 ed ed B2 | BABG E2 DE | GABd eged | B2 A2 A2 ef |
 g2 ed ed B2 | BABG E2 DE | GABd eged | B2 G2 G2 ef |
 g2 ed ed B2 | BABG E2 DE | GABd eged | B2 A2 A2 DE|
 G2 DE GDEG | DEGA B2 AB | g2 ed edBA |B2 GB G2  ||
+
+
 
 X:1
 T:Trip to Pakistan, The
@@ -532,6 +543,7 @@ T: Rookery, The
 C: Vincent Broderick
 Z: luddite
 S: https://thesession.org/tunes/2958#setting32661
+W: Next: Spootiskerry
 R: reel
 M: 4/4
 L: 1/8
@@ -540,5 +552,6 @@ K: Gmaj
 "Em"G2 GA B2 Bd|"C"e2 ed efga|bgag egge|"D"dBAc "C"BG G2:|
 |:"G"b2 gb a2 ga|b2 gb "D"aged|"C"G2 Bd e2 dg|e2 dg "D"edBA|
 "Em"G2 GA B2 Bd|"C"e2 ed efga|bgag egge|"D"d2 Ac "C"BG G2:|
+
 
 
